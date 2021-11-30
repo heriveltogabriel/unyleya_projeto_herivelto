@@ -1,5 +1,5 @@
 ---
-page_type: sample HG
+page_type: sample HGs
 languages:
   - python
 products:
@@ -8,7 +8,7 @@ products:
 description: "This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster."
 ---
 
-# Azure Voting App
+# Azure Voting App2
 
 This sample creates a multi-container application in an Azure Kubernetes Service (AKS) cluster. The application interface has been built using Python / Flask. The data component is using Redis.
 
